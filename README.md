@@ -65,6 +65,8 @@ The final product is a professional Power BI dashboard that equips the EdTech st
 
 ## Sneak Peek at the Dashboard
 
+![alt text](http://url/to/edtech project.jpg)
+
 -----
 
 ## How to Explore
