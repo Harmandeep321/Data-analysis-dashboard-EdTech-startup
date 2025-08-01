@@ -65,8 +65,7 @@ The final product is a professional Power BI dashboard that equips the EdTech st
 
 ## Sneak Peek at the Dashboard
 
-![alt text]([http://url/to/edtech project.jpg](https://github.com/Harmandeep321/Data-analysis-dashboard-EdTech-startup/blob/main/edtech%20project.jpg))
-
+![Image](https://github.com/user-attachments/assets/54e8e9dd-1ef5-4ea7-8257-48c538e03e0a)
 -----
 
 ## How to Explore
